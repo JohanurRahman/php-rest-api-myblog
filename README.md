@@ -1,2 +1,3 @@
-# php-rest-api-myblog
-A basic application to work with rest api using php
+# REST Api using PHP
+
+A basic blog application to work with rest api using php
